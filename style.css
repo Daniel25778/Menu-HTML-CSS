@@ -1,0 +1,15 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-image: url("background.jpg");
+    background-position: 0 20%;
+}
+
+nav{
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+}
